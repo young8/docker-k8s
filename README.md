@@ -3,6 +3,10 @@ Docker - Kubernetes
 
 Local test Kubernetes cluster.
 
+## Requirements
+
+* Docker - This all runs in a single container
+
 ## Usage
 
 ```bash
